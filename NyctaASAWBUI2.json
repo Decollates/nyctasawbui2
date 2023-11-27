@@ -1,0 +1,80 @@
+{
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": true,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/k87Y7CR.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 1,
+        "OpenOnStart": false,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Welcome!",
+          "title1": "Welcome to the Servers!",
+          "text1": "Howdy, and thanks for stopping by! You have entered Isla Nycta's Ascended ARK servers!",
+          "imageurl": "https://i.imgur.com/h9wcCfq.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "Rules",
+          "title1": "General Rules",
+          "title2": "PVE-Specific Rules",
+          "text1": "This text goes into the box for General Rules",
+          "text2": "This text goes into the box for PVE Rules",
+          "imageurl": "https://i.imgur.com/h9wcCfq.png"
+        }
+      },
+      {
+        "tab3": {
+          "layout": 1,
+          "buttontext": "Rates",
+          "title1": "title",
+          "text1": "This text goes into the box",
+          "imageurl": "https://i.imgur.com/h9wcCfq.png"
+        }
+      },	  
+      {
+        "tab4": {
+          "layout": 1,
+          "buttontext": "4 Box layout",
+          "title1": "title",
+          "text1": "This text goes into the box",
+          "imageurl": "https://i.imgur.com/h9wcCfq.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/islanycta"
+        }
+      },
+      {
+        "link2": {
+          "text": "Website",
+          "url": "https://nyctark.com/"
+        }
+      },
+      {
+        "link3": {
+          "text": "Rules",
+          "url": "https://nyctark.com/page/16435-ARK-Rules"
+        }
+      },
+      {
+        "link4": {
+          "text": "Web Shop",
+          "url": "https://nyctark.com/shop"
+        }
+      }
+    ]
+}
