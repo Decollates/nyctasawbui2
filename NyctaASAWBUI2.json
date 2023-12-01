@@ -16,16 +16,16 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "Welcome",
-          "title1": "Thanks for installing WBUI2!",
-          "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
+          "buttontext": "Home",
+          "title1": "Welcome to Isla Nycta!",
+          "text1": "Welcome to Isla Nycta's ARK: Survival Ascended PVP server!\nPlease be sure to check out the above and below buttons to get insight on our server, rules, and features, then explore our community, memberships, and everything else we have to offer!",
           "imageurl": "https://i.imgur.com/appPArB.png"
         }
       },
       {
         "tab2": {
           "layout": 2,
-          "buttontext": "Settings",
+          "buttontext": "Server Settings",
           "title1": "INI settings:",
           "text1": "<TextStyle.LightBlue>Ini Header:</>\n\n\\[WBUI2]\n\n\nINI-Options:\n\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\n\nYou have to host the file as \"raw\" somewhere and enter the URL to it wrapped in \" \". You can use github (linked below). After uploading the file you'll find a button called \"raw\". click the button and copy the URL. Or use any other hosting site which offers linking to a raw JSON output.\n\nFor a more detailed instruction checkout the Wiki linked down below.\n\n\nYou can trigger an update of the JSON via console command:\ncheat scriptcommand WBUI2 update",
           "title2": "JSON settings:",
@@ -43,38 +43,14 @@
       },
       {
         "link2": {
-          "text": "Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+          "text": "Website",
+          "url": "https://nyctark.com/"
         }
       },
       {
         "link3": {
-          "text": "CurseForge",
-          "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
-        }
-      },
-      {
-        "link4": {
-          "text": "JSON-Validator",
-          "url": "https://jsonlint.com"
-        }
-      },
-      {
-        "link5": {
-          "text": "Github",
-          "url": "https://github.com"
-        }
-      },
-      {
-        "link6": {
-          "text": "Imgur",
-          "url": "https://imgur.com"
-        }
-      },
-      {
-        "link7": {
-          "text": "Example JSON",
-          "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
+          "text": "ARK Server Rules",
+          "url": "https://nyctark.com/page/16435-ARK-Rules"
         }
       }
     ]
